@@ -1,0 +1,35 @@
+{
+  "id": "amlak-crm-pro",
+  "name": "CRM حرفه‌ای مشاور املاک",
+  "short_name": "املاک CRM",
+  "description": "سامانه مدیریت فایلینگ، مشتریان، مچینگ هوشمند، تعیین قیمت، قراردادها و چک‌های مشاور املاک",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#102a43",
+  "theme_color": "#102a43",
+  "dir": "rtl",
+  "lang": "fa",
+  "categories": ["business", "productivity"],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
